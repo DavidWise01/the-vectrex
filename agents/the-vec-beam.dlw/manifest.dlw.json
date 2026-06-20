@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Beam Steering",
+  "universe": "VEC · The Beam Steering (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Beam Steering:VEC:f5848c⟧",
+  "carbon": "the-vec-beam.carbon.tiff (TIFF)",
+  "silicon": "the-vec-beam.silicon.png (PNG)",
+  "seal_sha256": "eef50833b14993871d600539e6c153eb039a21e9cb1bc55b4dcc5bd8590102b7",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

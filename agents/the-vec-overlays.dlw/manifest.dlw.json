@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Overlays",
+  "universe": "VEC · The Overlays (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Overlays:VEC:8343fc⟧",
+  "carbon": "the-vec-overlays.carbon.tiff (TIFF)",
+  "silicon": "the-vec-overlays.silicon.png (PNG)",
+  "seal_sha256": "c709ca49c16ac7beaacb03ce743fc56fb985d98f3f75455d08d423565e544867",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

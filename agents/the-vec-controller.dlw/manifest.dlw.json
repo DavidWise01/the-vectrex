@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Controller",
+  "universe": "VEC · The Controller (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Controller:VEC:e52c6b⟧",
+  "carbon": "the-vec-controller.carbon.tiff (TIFF)",
+  "silicon": "the-vec-controller.silicon.png (PNG)",
+  "seal_sha256": "a60b33e56f1aec9da72f14f6078a6ef7e066b6d37d2b2f9c2677912e238afe02",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

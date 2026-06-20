@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-vec-6809",
+    "name": "The 6809",
+    "epithet": "an elegant 8-bit · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The 6809:VEC:d11f7b⟧"
+  },
+  {
+    "slug": "the-vec-monitor",
+    "name": "The Vector Monitor",
+    "epithet": "its own screen · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Vector Monitor:VEC:993d07⟧"
+  },
+  {
+    "slug": "the-vec-beam",
+    "name": "The Beam Steering",
+    "epithet": "drawing with the electron beam · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Beam Steering:VEC:f5848c⟧"
+  },
+  {
+    "slug": "the-vec-overlays",
+    "name": "The Overlays",
+    "epithet": "colour clipped on · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Overlays:VEC:8343fc⟧"
+  },
+  {
+    "slug": "the-vec-sound",
+    "name": "The Sound Chip",
+    "epithet": "three voices · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Sound Chip:VEC:9fb529⟧"
+  },
+  {
+    "slug": "the-vec-controller",
+    "name": "The Controller",
+    "epithet": "built into the base · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Controller:VEC:e52c6b⟧"
+  }
+]
